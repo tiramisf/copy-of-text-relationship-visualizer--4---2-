@@ -10,7 +10,7 @@ export default defineConfig(() => { // mode는 loadEnv 사용 시 필요할 수 
 
       // GitHub Pages 배포를 위한 base 경로 설정
       // 저장소 이름이 'tiraf'이므로 '/tiraf/'로 설정합니다.
-      base: '/tiraf/',
+      base: '/copy-of-text-relationship-visualizer---4---2/',
 
       // API 키를 사용하지 않으므로 define 섹션은 제거하거나 비워둡니다.
       // define: {
