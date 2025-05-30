@@ -9,7 +9,7 @@ export default defineConfig(() => { // mode는 loadEnv 사용 시 필요할 수 
       // plugins: [react()], // 사용하는 프레임워크 플러그인
 
       // GitHub Pages 배포를 위한 base 경로 설정
-      // 저장소 이름이 'tiraf'이므로 '/tiraf/'로 설정합니다.
+      
       base: '/copy-of-text-relationship-visualizer---4---2/',
 
       // API 키를 사용하지 않으므로 define 섹션은 제거하거나 비워둡니다.
